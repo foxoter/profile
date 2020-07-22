@@ -1,2 +1,0 @@
-# profile
-Personal page mockup
